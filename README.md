@@ -1,4 +1,4 @@
-# Basic-details
+
 #include <stdio.h>
 
 int main()
